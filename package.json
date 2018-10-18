@@ -1,0 +1,25 @@
+{
+  "name": "FF-Stat-Analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterkohler95/FF-Stat-Analyzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterkohler95/FF-Stat-Analyzer/issues"
+  },
+  "homepage": "https://github.com/peterkohler95/FF-Stat-Analyzer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
